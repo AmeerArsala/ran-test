@@ -2,7 +2,7 @@ import ran
 
 
 @ran.expose
-def greet():
+def greet(num: int, text: str):
     print("Hello World")
 
 

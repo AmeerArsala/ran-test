@@ -1,7 +1,7 @@
 import ran
 
 
-def another_hidden_function():
+def another_hidden_function(a: str):
     print("I don't want to be exposed to RAN")
 
 
